@@ -1,8 +1,7 @@
 package gen;
 
-/*泛型-泛型方法
- * 
- * 
+/*
+ *泛型方法 
  */
 
 public class gener {
