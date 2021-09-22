@@ -1,9 +1,8 @@
 package gen;
 
-/*
+/**
  *泛型方法 
  */
-
 public class gener {
 	public static <M> void printList(M[] inputList) {
 		for(M element : inputList) {
