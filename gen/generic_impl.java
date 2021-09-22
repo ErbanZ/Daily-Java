@@ -1,5 +1,9 @@
 package gen;
 
+/*
+ * 泛型接口实现
+ */
+
 public class generic_impl<T> implements generic_interface<T>{
 
 	@Override
