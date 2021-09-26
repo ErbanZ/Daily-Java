@@ -16,6 +16,7 @@ public class constant {
 		System.out.println(constant2.i);
 		System.out.println(constant2.j);
 
+
 	}
 
 

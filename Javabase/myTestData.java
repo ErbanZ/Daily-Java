@@ -1,5 +1,4 @@
 package Javabase;
-import Javabase.DataClass;
 
 public class myTestData {
 
@@ -14,4 +13,3 @@ public class myTestData {
 	}
 
 }
-
