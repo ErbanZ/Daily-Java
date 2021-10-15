@@ -1,4 +1,4 @@
-package Javabase;
+package javabase;
 
 public class DataClass {
 	String name;

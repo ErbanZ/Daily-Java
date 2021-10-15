@@ -1,4 +1,4 @@
-package Javabase;
+package javabase;
 
 /**
  * 枚举值

@@ -1,4 +1,4 @@
-package Javabase;
+package javabase;
 
 /**
  * to: https://www.cnblogs.com/dolphin0520/p/3736238.html
